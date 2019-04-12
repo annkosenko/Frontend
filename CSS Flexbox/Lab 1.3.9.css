@@ -1,0 +1,190 @@
+
+.container
+{
+ height: 80px;
+ background-color: DodgerBlue;
+ display: flex;
+ align-items: center;
+}
+
+.button3{
+justify-content: flex-end;
+margin-left: auto;
+margin-right: 20px;
+height: 50px;
+ background-color: red;
+ color: white;
+}
+
+.button1 {
+justify-content: flex-start;
+margin-left: 20px;
+margin-right: 10px;
+height: 50px;
+ background-color: red;
+ color: white;
+}
+
+.button2 {
+justify-content: flex-start;
+margin-right: auto;
+height: 50px;
+ background-color: red;
+ color: white;
+}
+
+.flex-container {
+ display: flex;
+ }
+
+.flex-container > div {
+  padding: 20px;
+  font-size: 15px;
+  border: 1px solid #DEB887;
+  margin-bottom: 10px;
+
+}
+
+ .cl1 {
+ background: #DEB887;
+margin-right: 0px;
+flex: 1;
+ }
+
+.cl2 {
+ background: #FFE4C4;
+ width: 200px;
+ justify-content: flex-end;
+ margin-left: auto;
+margin-right: 0px;
+ }
+
+.cl3 {
+ justify-content: flex-end;
+ background: #FFE4C4;
+width: 200px;
+margin-left: 0px;
+margin-right: 0px;
+ }
+
+ .flex-container2 {
+ display: flex;
+ }
+
+.flex-container2 > div {
+  padding: 20px;
+  font-size: 15px;
+  border: 1px solid #DEB887;
+   margin-bottom: 10px;
+
+
+}
+
+.cl4 {
+ background: #DEB887;
+margin-right: 0px;
+flex: 1;
+ }
+
+.cl5 {
+ background: #FFE4C4;
+ width: 200px;
+ justify-content: flex-end;
+ margin-left: auto;
+margin-right: 0px;
+ }
+
+.cl6 {
+ justify-content: flex-end;
+ background: #FFE4C4;
+width: 200px;
+margin-left: 0px;
+margin-right: 0px;
+ }
+
+ .flex-container3 {
+ display: flex;
+ }
+
+.flex-container3 > div {
+  padding: 20px;
+  font-size: 15px;
+  border: 1px solid #DEB887;
+
+}
+
+.cl7 {
+ background: #DEB887;
+margin-right: 0px;
+flex: 1;
+ }
+
+.cl8 {
+ background: #FFE4C4;
+ width: 200px;
+ justify-content: flex-end;
+ margin-left: auto;
+margin-right: 0px;
+ }
+
+.cl9 {
+ justify-content: flex-end;
+ background: #FFE4C4;
+width: 200px;
+margin-left: 0px;
+margin-right: 0px;
+ }
+
+ .Jobs {
+ display: flex;
+ }
+
+.Jobs > div {
+  padding: 15px;
+  font-size: 15px;
+  margin: 15px;
+}
+
+.J1 {
+background: #B22222;
+ width: 200px;
+ color: white;
+ }
+
+ .J2 {
+background: #FF8C00;
+flex: 1;
+color: white;
+ }
+
+ .Apply {
+color: white;
+background: #B22222;
+font-size: 15px;
+padding: 15px;
+float: right;
+border: 1 solid #8B0000;
+border-radius: 10px;
+} 
+
+.Jobs2 {
+ display: flex;
+} 
+
+.Jobs2 > div {
+  padding: 15px;
+  font-size: 15px;
+  margin: 15px;
+}
+
+.J3 {
+background: #B22222;
+ width: 200px;
+ color: white;
+ }
+
+ .J4 {
+background: #FF8C00;
+flex: 1;
+color: white;
+ }

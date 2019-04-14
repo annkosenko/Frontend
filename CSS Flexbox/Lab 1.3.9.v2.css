@@ -42,14 +42,13 @@ height: 50px;
   font-size: 15px;
   border: 1px solid #DEB887;
   margin-bottom: 10px;
-
 }
 
- .cl1 {
+.cl1 {
  background: #DEB887;
 margin-right: 0px;
 flex: 1;
- }
+}
 
 .cl2 {
  background: #FFE4C4;
@@ -76,31 +75,8 @@ margin-right: 0px;
   font-size: 15px;
   border: 1px solid #DEB887;
    margin-bottom: 10px;
-
-
 }
 
-.cl4 {
- background: #DEB887;
-margin-right: 0px;
-flex: 1;
- }
-
-.cl5 {
- background: #FFE4C4;
- width: 200px;
- justify-content: flex-end;
- margin-left: auto;
-margin-right: 0px;
- }
-
-.cl6 {
- justify-content: flex-end;
- background: #FFE4C4;
-width: 200px;
-margin-left: 0px;
-margin-right: 0px;
- }
 
  .flex-container3 {
  display: flex;
@@ -112,28 +88,6 @@ margin-right: 0px;
   border: 1px solid #DEB887;
 
 }
-
-.cl7 {
- background: #DEB887;
-margin-right: 0px;
-flex: 1;
- }
-
-.cl8 {
- background: #FFE4C4;
- width: 200px;
- justify-content: flex-end;
- margin-left: auto;
-margin-right: 0px;
- }
-
-.cl9 {
- justify-content: flex-end;
- background: #FFE4C4;
-width: 200px;
-margin-left: 0px;
-margin-right: 0px;
- }
 
  .Jobs {
  display: flex;
@@ -177,14 +131,3 @@ border-radius: 10px;
   margin: 15px;
 }
 
-.J3 {
-background: #B22222;
- width: 200px;
- color: white;
- }
-
- .J4 {
-background: #FF8C00;
-flex: 1;
-color: white;
- }

@@ -1,0 +1,28 @@
+.container-fluid{
+    background: rgba(255, 69, 69, 0.73);
+    color: black;
+    border: 1px solid black;
+    height: 100%;
+padding: 20px 20px 10px;
+}
+
+[class^="col"] {
+    border: 1px solid black;
+}
+img {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.row-flex {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+}
+
+.colo
+{
+	background: blue;
+}
